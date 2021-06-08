@@ -8,7 +8,7 @@
 </head>
 <body>
     <div>
-      ES: hola mundo DEV <?php echo "dev2  ING: Hello World"; ?> 
+      ES: hola mundo DEV <?php echo "dev1  ING: Hello World"; ?> 
     </div>
     <div>
         <ul>
