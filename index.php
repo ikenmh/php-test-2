@@ -8,10 +8,8 @@
 </head>
 <body>
     <div>
-      hola mundo DEV
+      hola mundo DEV <?php echo "dev2 Hello World"; ?> 
     </div>
-      
-      
     <div>
         <ul>
              <li>op1</li>
